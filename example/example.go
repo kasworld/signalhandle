@@ -16,7 +16,7 @@ import (
 	"flag"
 	"time"
 
-	"github.com/kasworld/log/loggen/basiclog"
+	"github.com/kasworld/log/genlog/basiclog"
 	"github.com/kasworld/signalhandle"
 )
 
