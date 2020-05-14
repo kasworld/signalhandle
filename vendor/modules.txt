@@ -1,0 +1,15 @@
+# github.com/kasworld/launcherlib v0.0.0-20190513092519-5ce52b882f53
+## explicit
+github.com/kasworld/launcherlib
+# github.com/kasworld/log v0.0.0-20191101013826-9bd2997eac10
+## explicit
+github.com/kasworld/log/genlog/basiclog
+github.com/kasworld/log/logdestination_file
+github.com/kasworld/log/logdestination_stdio
+github.com/kasworld/log/logdestinationgroup
+github.com/kasworld/log/logdestinationi
+github.com/kasworld/log/logflagi
+github.com/kasworld/log/logflags
+# github.com/nightlyone/lockfile v1.0.0
+## explicit
+github.com/nightlyone/lockfile
