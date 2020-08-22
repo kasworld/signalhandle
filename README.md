@@ -43,7 +43,7 @@ pid lockfile을 사용해서 서비스의 제어를 가능하게 해줍니다.
         ServiceInit() error
         ServiceMain(ctx context.Context)
         ServiceCleanup()
-        GetLogger() LoggerI
+        GetLogger() interface{} // LoggerI 를 구현 해야 합니다. 
     }
 
     type LoggerI interface {
